@@ -1,0 +1,9 @@
+requests
+bs4
+re
+pandas
+numpy
+matplotlib
+scipy
+networkx
+jupyter
