@@ -1,0 +1,776 @@
+AuthorID,Name,Aliases,Citation Count,Field
+2107389568,Z. He,"['Z He', 'Zhongyang He']",40,['Mathematics']
+1643347009,Jessy Xinyi Han,,26,['Computer Science']
+47979799,William R. Hobbs,"['William Hobbs', 'William R. Hobbs', 'Will Hobbs', 'William R Hobbs']",753,['Sociology']
+2068360159,I. Weaver,"['I. Weaver', 'Iain Weaver']",0,['Sociology']
+47559215,Yutao Chen,['Yutao Chen'],211,['Psychology']
+2117239140,Jianmei Tao,"['Jia Tao', 'Jia-jun Tao']",14,['Medicine']
+6437306,Manuel Herranz,['Manuel Herranz'],63,"['Political Science', 'Computer Science']"
+2115554124,Xinyi Wang,['Xinyi Wang'],119,['Physics']
+2109842138,A. Sanchez,"['Angel Sanchez', 'Angel Alvaro Sanchez']",3,['Geography']
+1796260814,Jiyoung Han,['Jiyoung Han'],38,['Sociology']
+144490412,E. Melissa,"['E Melissa', 'Ellamil Melissa']",0,None
+116693203,Olga Silyutina,,8,['Political Science']
+47526637,F. Morgan,"['F Morgan', 'Frank Morgan']",1315,['Medicine']
+1729586298,Robert Mahari,['Robert Zev Mahari'],0,['Economics']
+2095141092,Sarah E. Bolden,['Sarah Bolden'],4,['Sociology']
+145963427,Indrajit Bhattacharya,"['Indra Bhattacharya', 'Indrajit Bhattacharya', 'Indrajit N. Bhattacharya', 'Indranil Bhattacharya']",3027,['Medicine']
+1831395,H. Wallach,"['H Wallach', 'H. Wallach', 'Hanna M Wallach', 'H. M. Wallach', 'Hanna Wallach', 'Hanna M. Wallach']",11461,['Sociology']
+1838478,B. Uzzi,"['B Uzzi', 'Brian Uzzi', 'Brian Dondiego Uzzi']",31011,['Sociology']
+40504742,C. Estrada,"['C Estrada', 'Camilo Vélez Estrada', 'Camilo Estrada']",3,['Medicine']
+2115496186,Kang-San Lee,"['Kang San Lee', 'Kangsan Lee']",5,['Sociology']
+2558997,C. Klimmt,"['C. Klimmt', 'Christoph Klimmt']",5857,['Sociology']
+119218337,Stan Oklobdzija,,45,['Political Science']
+146089746,Ágnes Horvát,['Agnes Horvat'],0,None
+2141510269,Julie M. Jiang,"['Julie Jiang', 'Julie M Jiang']",86,['Medicine']
+1778398,Lada A. Adamic,"['Lada A Adamic', 'Lada Adamic']",26381,"['Sociology', 'Computer Science']"
+8169994,Mark D. Whiting,"['Mark D Whiting', 'Mark Whiting']",148,"['Psychology', 'Medicine']"
+39613066,Arram Bae,,101,['Political Science']
+10807072,Yilang Peng,,179,['Sociology']
+1470825038,H. Zeng,"['He Zeng', 'Helen Zeng', 'Helen Shuxuan Zeng']",4,['Sociology']
+2064358,B. Nyhan,"['B. Nyhan', 'Brendan Nyhan', 'Brendan J. Nyhan']",12456,['Sociology']
+123861276,J. Adams,"['Jane Adams', 'Jane Jackson Adams']",17,['Geography']
+1712865,K. Varshney,"['K.r. Varshney', 'Kush R Varshney', 'Kush Varshney', 'Kush R. Varshney']",5162,['Psychology']
+2058192976,S. Cunningham,"['S. Cunningham', 'Scott Cunningham', 'Scott R. Cunningham']",41,['Sociology']
+40196311,M. Morris,"['Marc Morris', 'Marcella H. Morris', 'Marcella Harrison Morris']",127,['Psychology']
+102718695,Daniel Straulino,['Daniel Straulino'],29,"['Medicine', 'Computer Science', 'Economics', 'Physics']"
+31270684,C. Gennaioli,"['C. Gennaioli', 'Caterina Gennaioli']",348,['Political Science']
+1878375,Nick Obradovich,"['Nick Obradovich', 'Nicholas Anthony Obradovich']",2532,"['Sociology', 'Medicine']"
+51290625,N. Savela,"['N Savela', 'Nina Savela']",636,"['Sociology', 'Computer Science']"
+2168321727,M. Porfiri,"['M. Porfiri', 'Maurizio Porfiri']",64,['Physics']
+33978150,R. Stelter,"['R Stelter', 'R. Stelter', 'Robert Stelter']",94,['Political Science']
+144937884,Tarun Jain,"['Tarun Jain', 'Tarun K Jain', 'Tarun Kumar Jain', 'Taruna Jain']",1247,['Sociology']
+51034107,Mauricio G. Gruppi,"[""Maur'icio Gruppi"", 'Mauricio Gruppi', 'Maurício Gouveia Gruppi', 'Maurício Gruppi']",70,"['Sociology', 'Computer Science']"
+32670167,Iñaki Ucar,['Inaki Ucar'],152,['Medicine']
+89974507,W. Jo,"['Woo Jo', 'Woo-sik Jo', 'Woo Sik Jo']",2,['Materials Science']
+2003393,Yingda Lu,"['Ying Tracy Lu', 'Yingdan Lu']",332,"['Sociology', 'Political Science', 'Computer Science']"
+3178240,F. Lafond,"['F. D. Lafond', 'Francois Lafond', 'François Lafond']",820,['Political Science']
+2058460749,F. Neumann,"['F. Neumann', 'Frank Charles Neumann', 'Frank Neumann']",59,['Sociology']
+1589493589,Joe Nudell,['Joseph Nudell'],229,['Computer Science']
+5315446,G. Stecklov,"['G Stecklov', 'G. Stecklov', 'Guy Stecklov']",1782,['Sociology']
+5704024,Y. Amirkhanian,"['Yuri A. Amirkhanian', 'Y. A. Amirkhanian', 'Y A Amirkhanian', 'Yuri Amirkhanian', 'Yu. A. Amirkhanian', 'Yuri A Amirkhanian']",2186,"['Psychology', 'Medicine']"
+3191663,I. Couzin,"['Iain D Couzin', 'Iain Couzin', 'I.d. Couzin', 'Iain D. Couzin', 'I. D. Couzin', 'I. D Couzin']",21756,['Sociology']
+50687524,J. Hoey,"['J. M. Hoey', 'Jesse Hoey', 'Jessica Hoey']",276,['Medicine']
+122608810,Wen Chun-ying,['Wen Chunying'],7,None
+2146032816,Lian-Hui Chen,['Liangwei Chen'],1,['Chemistry']
+114115436,D. Rama,"['D. Rama', 'Daniele Rama']",11,['Political Science']
+2084631489,Daniel A Goldstein,"['Daniel A. Goldstein', 'Daniel Goldstein']",93,['Medicine']
+2082294744,D. Steffen,['Diana Steffen'],13,['Medicine']
+40484649,A. Goldenberg,"['A. Goldenberg', 'Amit Goldenberg']",948,['Psychology']
+1439702795,J. Kas,"['J. Kas', 'Judith Kas']",20,['Political Science']
+47379578,N. Allum,"['N Allum', 'N C Allum', 'Nick Allum']",6445,['Sociology']
+2098811019,Myunghwan Cho,"['Myung Cho', 'Myung Hun Cho']",0,['Engineering']
+47022219,Siobhán Grayson,['Siobhan Grayson'],77,['Engineering']
+5971897,L. Richter,"['L. Richter', 'Lukas Richter']",78,['Political Science']
+2056050405,W. Jung,['Woosung Jung'],10,"['Physics', 'Materials Science']"
+1580935862,I. Tingzon,"['I. Tingzon', 'Isabelle Tingzon']",67,['Medicine']
+152765431,C. A. Vieira,"['Cláudio A. Vieira', 'Cláudio Amorim Vieira']",0,None
+1725412685,Orsolya Ring,,25,['Political Science']
+2097232,B. F. Welles,"['B. F. Welles', 'Brooke Foucault Welles']",817,['Sociology']
+6050548,N. Pescetelli,"['N Pescetelli', ""Niccolo' Pescetelli"", 'Niccolò Pescetelli', 'N. Pescetelli', ""Niccol'o Pescetelli"", 'Niccolo Pescetelli']",316,['Sociology']
+79695806,Yan Jianliang,"['Yan Jianliang', 'Yang Jianliang']",0,['Medicine']
+152290158,Austin C Benson,['Austin Benson'],12,"['Chemistry', 'Medicine']"
+147697560,Nikolaus Nova Parulian,"['Nikolaus N Parulian', 'Nikolaus Parulian']",172,['Psychology']
+2144348249,Hee-Chul Kim,['Heetae Kim'],477,['Physics']
+32286134,Jonathan Zong,,36,['Computer Science']
+150892645,Alessandro Artoni,,53,"['History', 'Computer Science']"
+102366016,Lengyel Balázs,"['Lengyel Balázs', 'Lengyel Balazs']",0,['Geography']
+7971033,F. V. Tubergen,"['F. A. Van Tubergen', 'F. Van Tubergen', 'Frank Van Tubergen']",2871,['Sociology']
+115833670,Xu Lu,"['Xuan Lu', 'Xuan‐wei Lu']",11,['Psychology']
+137876510,J. Lach,"['J. Lach', 'John H Lach', 'John Lach']",14,['Physics']
+27093745,S. Roman,"['S. Roman', 'Sabin Roman']",77,['Medicine']
+152718120,S. Chopra,"['S. Chopra', 'Shweta Rebecca Chopra', 'Shweta Chopra']",22,['Medicine']
+3381981,Matthieu Nadini,,328,"['Psychology', 'Computer Science']"
+71774295,Chen Lu-shi,['Chen Lushi'],9,['Medicine']
+39810162,R. Horn,"['R. Horn', 'Roland Horn', 'R Horn', 'Roland Von Horn', 'Ronald Horn']",25,['Psychology']
+1925177,B. Perry,"['B Perry', 'Brea Perry', 'Brea L. Perry', 'B L Perry', 'Brea Louise Perry', 'B. L. Perry', 'Brea L Perry']",4221,['Sociology']
+2110193367,K. Chan,"['Kevin Chan', 'Kevin S. Chan', 'Kevin Sean Chan']",96,"['Mathematics', 'Computer Science']"
+1743706,G. Miritello,"['G. Miritello', 'Giovanna Miritello']",939,['Sociology']
+52148319,Nupur Baghel,,10,['Computer Science']
+2102720733,Lukas Fervers,,0,['Psychology']
+151201979,S. Brooke,"['S. J. Brooke', 'Sian Brooke', 'Sian Jm Brooke', 'Siân Brooke']",38,['Sociology']
+2138659045,Ger Graus,,1,None
+9342947,Dong Xiao-wen,['Dong Xiaowen'],1,['Medicine']
+48725539,G. L. Mens,"['G. Le Mens', 'Gael Le Mens', 'Gaël Le Mens']",236,['Sociology']
+2073358625,K. Wiesner,"['K Wiesner', 'Karoline Wiesner']",468,['Political Science']
+100967429,G. Barnett,"['G Barnett', 'George W. Barnett', 'George Barnett']",2,['Medicine']
+118236823,Tara Sowrirajan,,121,"['Medicine', 'Business']"
+52139981,A. E. Fard,"['A. Ebrahimi Fard', 'Amir Ebrahimi Fard']",101,['Psychology']
+144063208,G. D. Bruin,"['G. J. De Bruin', 'Gerrit De Bruin', 'Gerrit-jan De Bruin', 'Gerrit Jan De Bruin']",527,['Physics']
+2068824507,S. Lehmann,"['S Lehmann', 'S. Lehmann', 'Sune Lehmann']",634,"['Psychology', 'Medicine']"
+118957299,Loseva Alla Vladimirovna,,0,None
+51148972,Antonio D. Sirianni,"['Antonio D Sirianni', 'Antonio Sirianni']",10,['Sociology']
+122388167,M. Deschamps,['Marinette Savonnet Deschamps'],13,['Physics']
+7249796,S. Hoorens,"['S Hoorens', 'S. Hoorens', 'Stijn Hoorens']",1201,['Sociology']
+2053453716,Guy J. Abel,['Guy Abel'],17,['Medicine']
+119701448,Rajah. Chetty,['Raj Chetty'],2,['Business']
+9952841,Iacopo Pozzana,,91,['Physics']
+82463398,Carsten Schwemmer,,358,['Sociology']
+1775511,M. Cha,"['M Cha', 'Meeyoung Cha']",14391,['Sociology']
+2084231279,Gh H H H H H H H H H H H H H H H H H H H H H H,,0,None
+143676983,Miguel R Guevara,"['Miguel Guevara', 'Miguel R. Guevara']",120,"['Geography', 'Computer Science']"
+2069315974,A. Pentland,"['A. Pentland', 'Alex Pentland']",122,['Computer Science']
+24502746,Marita Jacob,,381,['Sociology']
+1874465,Shohei Usui,,15,['Computer Science']
+34779893,Michio Hosaka,['Michio Hosaka'],13,['History']
+143716988,M. Levene,"['M Levene', 'Mark A Levene', 'Ma Levene', 'Marka . Levene', 'M. Levene', 'Mark Levene']",6814,['Sociology']
+49685517,Jihye Lee,"['Jihye Lee', 'Jihye Yoo Lee']",251,['Sociology']
+2064459113,Guy Melançon,,4,None
+123712301,H. Stowell,"['H Stowell', 'H. E. Stowell', 'Helen Elizabeth Stowell']",1,"['Psychology', 'Medicine']"
+2066992265,Sébastien Lerique,,0,None
+2142867041,S. Loomba,"['S D Loomba', 'S Loomba', 'Sahil Loomba']",198,['Medicine']
+39073532,M. Alfano,"['M S Alfano', 'M Alfano', 'Mark Alfano', 'Mark S. Alfano', 'M. Alfano']",2677,['Sociology']
+144421488,N. Ram,"['Nilam Ram', 'N Ram']",87,['Medicine']
+1668875426,Itto Kornecki,,12,['Sociology']
+2109431438,Chengjun Wang,['Chengjun Wang'],14,['Medicine']
+24747777,M. Natale,"['M. C. Di Natale', 'M. Di Natale', 'M Di Natale', 'Maria Concetta Di Natale', 'Maria Natale']",5,['Geography']
+47260431,A. Sawyer,"['A. Sawyer', 'Adam Sawyer', 'Adam J. Sawyer']",2,None
+5499832,Károly Bozsonyi,['Karoly Bozsonyi'],100,['Sociology']
+2135815829,Sungyong Lee,"['Sung-oog Lee', 'Sung Jo Lee', 'Sung Ii Lee', 'Sung Kue Lee', 'Sung-ok Lee', 'Sung-lien Lee', 'Sung-min Lee', 'Sung Taek Lee', 'Sung-ryong Lee', 'Sung-hoon Lee', 'Sung Hoon Lee', 'Sung-hwa Lee', 'Sung-guk Lee']",8,['Sociology']
+2144568816,Sanghoon Lee,"['Sang-hoon Lee', 'Sang‐hoon Lee']",417,['Medicine']
+2061625101,I. Anderson,"['Ian Anderson', 'Ian Gibson Anderson']",11,['Political Science']
+103467856,R. Perrier,['Rémi Perrier'],15,['Political Science']
+144682367,G. Gauthier,"['G. Robin Gauthier', 'Germain Gauthier']",23,['Sociology']
+144459141,R. Everson,"['R Everson', 'Richard T. Everson', 'Richard Todd Everson', 'Richard Everson']",123,['Physics']
+3200568,O. Boulais,"['Océane Boulais', 'Océane E. Boulais', 'Oceane Boulais', 'O. Boulais', ""Oc'eane Boulais""]",49,['Sociology']
+144260238,D. M. Oliveira,"['D. M. Oliveira', 'Diego F M Oliveira', 'Diego Fregolente Mendes De Oliveira', 'Diego F. M. Oliveira']",428,['Physics']
+2064129380,A. Arenas,"['A. Arenas', 'Alex Arenas', 'Alexandre Arenas']",46,['Computer Science']
+103738205,Zohar Neu,,5,None
+2140178622,Shuang-shuang Zhang,"['Shuang Zhang', 'Shuang-shuang Zhang']",1,['Medicine']
+1589437057,Connor Toups,,220,None
+2115770555,Kara L. Johnson,['Kara L. Johnson'],5,None
+143873343,Ryan Whalen,['Ryan M. Whalen'],103,['Sociology']
+1793302,Aaron L Halfaker,"['Aaron Halfaker', 'Aaron Lee Halfaker']",1974,['Sociology']
+1471887945,Kate Furman,,1,None
+2058811829,F. Kreuter,"['F Kreuter', 'Frauke Kreuter']",174,['Sociology']
+3318461,M. Gagliolo,"['M. Gagliolo', 'Matteo Gagliolo']",796,['Sociology']
+2364416,F. Simini,"['F. Simini', 'Filippo Simini']",2825,['Physics']
+2090820194,Liu Jichao,['Li Jichao'],0,None
+39074659,Benjamin F. Turner,"['Benjamin F Turner', 'Benjamin Turner']",787,['Mathematics']
+22532100,Jeremy Dohmann,,1,['Computer Science']
+2775909,A. Chaintreau,"['A Chaintreau', 'A. Chaintreau', 'Augustin Chaintreau']",7370,['Sociology']
+147863109,Qinyun Lv,"['Qin Lv', 'Qin Xiu Lv']",2,None
+2070171501,A. Robertson,"['A. Robertson', 'Alexander J. Robertson', 'Alexander Robertson']",468,['Physics']
+49164724,Christopher Janssen,"['Chris Janssen', 'Christopher F Janssen']",961,['Medicine']
+2876837,P. Panzarasa,"['P Panzarasa', 'P. Panzarasa', 'Pietro Panzarasa']",3207,['Sociology']
+98378192,F. Jansson,"['F Jansson', 'Fredrik Jansson']",18,['Medicine']
+2155236005,Soo-Jong Kim,['Soojong Kim'],2,['Materials Science']
+144265082,Long Yang,['Longqi Yang'],8,['Computer Science']
+2047997575,A. Loser,"['A. Loser', 'Alexander Loser']",45,['Computer Science']
+114546470,A. Cardoso,"['Angelo A Cardoso', 'A Cardoso', 'Angelo A. Cardoso', 'Angelo Almeida Cardoso', 'Angelo Cardoso', 'A. A. Cardoso', 'A A Cardoso']",6180,['Medicine']
+12561051,Yifeng Wan,,145,"['Chemistry', 'Medicine']"
+71149174,Clara K Hanson,['Clara Hanson'],1,['Sociology']
+40650641,Mehwish Nasim,,198,['Psychology']
+5241662,T. Nishida,"['T Nishida', 'T. Nishida', 'Takanori Nishida']",657,['Physics']
+2616516,J. Ho,"['J Ho', 'Justin O. Ho', 'Justin Ho']",15,['Medicine']
+46453660,A. Rosenberg,"['Andrew. Rosenberg', 'A A Rosenberg', 'Andrew A. Rosenberg', 'A. A. Rosenberg', 'Andrew A Rosenberg', 'Andrew Rosenberg']",11834,['Sociology']
+1388261469,L. Dickens,"['Luke Dickens', 'Luke William Feidhlim Dickens']",17,"['Psychology', 'Computer Science']"
+66124729,F. Löcherbach,"['F. Löcherbach', 'Felicia Loecherbach', 'Felicia Löcherbach']",12,['Computer Science']
+1590792981,Jessica E. Kim,"['Jessica E Kim', 'Jessica Kim']",687,['Medicine']
+143660006,Frank M. H. Neffke,"['F.m.h. Neffke', 'Frank Neffke', 'Frankfrank Neffke']",2765,['Mathematics']
+143636246,J. Moeller,"['J. Moeller', 'Judith Moeller']",956,['Sociology']
+40035206,Niraj Sitaula,['Niraj Sitaula'],39,"['Psychology', 'Computer Science']"
+80174617,Charlie Pilgrim,,19,['Mathematics']
+31828515,Margarita Leib,,246,['Psychology']
+3256565,Damon Centola,['Damon Centola'],7819,['Sociology']
+2064132556,D. Lupton,"['D Lupton', 'D. Lupton', 'Deborah A. Lupton', 'D A Lupton', 'Deborah Lupton', 'Deborah A Lupton']",15333,['Sociology']
+2066168764,R. Juanes,"['R. Oropesa Juanes', 'Ruben Juanes']",9,['Philosophy']
+145955154,F. C. Santos,"['F. C. Santos', 'F C Santos', 'Francisco Cadete Santos', 'Francisco C. Santos', 'Francisco C Santos']",0,None
+13618264,K. Wapman,"['K R Wapman', 'K. Wapman', 'Kenneth R Wapman', 'Kenneth R. Wapman']",121,['Mathematics']
+31022255,D. Schoch,"['D. Schoch', 'David G. Schoch', 'David Schoch']",653,"['Psychology', 'Medicine']"
+115099878,Zijiang An,['Zijian An'],35,"['Physics', 'Chemistry']"
+1784138283,Jee-Hyeon Choi,['Jeehye Choi'],2,['Psychology']
+49390390,Z. Smoreda,"['Z Smoreda', 'Zbigniew Smoreda']",183,['Sociology']
+2064581974,Emiliano De Cristofaro,,316,['Computer Science']
+2775559,Fred Morstatter,['Fred Morstatter'],6170,['Psychology']
+123486018,Florianne C. J. Verkroost,['Florianne Celeste Johanna Verkroost'],8,['Medicine']
+2053319685,I. Miller,"['I. Miller', 'Ian J Miller', 'Ian Miller', 'Ian J. Miller']",504,['Medicine']
+2054352424,Mario Molina,"['Mario Molina', 'Mario J. Molina']",244,['Environmental Science']
+38798270,M. Sverdlov,"['M Sverdlov', 'M. Yu. Sverdlov', 'Michael Sverdlov']",77,['Medicine']
+14580412,S. Lera,"['Sandro C. Lera', 'Sandro Lera', 'Sandro Claudio Lera']",68,['Physics']
+2109431438,Chengjun Wang,['Chengjun Wang'],14,['Medicine']
+2919118,A. Abeliuk,"['A. Abeliuk', ""Andr'es Abeliuk"", 'Andres Abeliuk', 'Andrés Abeliuk']",383,['Political Science']
+1950729,M. Maathuis,"['M. H. Maathuis', 'Marloes H Maathuis', 'Marloes Maathuis', 'M.h. Maathuis', 'M.h.r. Maathuis', 'M. Maathuis', 'M H Maathuis', 'Marloes. H. Maathuis', 'Marloes H. Maathuis']",4016,['Medicine']
+70224648,C. Puschmann,"['C Puschmann', 'Cornelius Puschmann']",1301,['Sociology']
+2149257554,Jian Gao,['Jianjian Gao'],2,['Medicine']
+7485612,J. Hoven,"['J Van Den Hoven', 'J. Van Den Hoven', 'Jeroen Hoven', 'Jeroen Van Den Hoven']",2827,['Sociology']
+3156894,S. Messing,"['S Messing', 'Solomon Messing']",302,['Medicine']
+9820990,Daniel Ciganda,,53,['Sociology']
+7243805,P. Janský,"['P Janský', 'Petr Jansky', 'P. Janský', 'Petr Janský', 'P Jansky', 'Petr Jánský', 'P. Jansky']",16506,['Political Science']
+26006522,Sayani Ghosh,['Sayan Ghosh'],141,['Physics']
+94674326,Clauset,"['Clauset', 'Aaron Clauset']",0,None
+2478983,D. Fisher,"['Dan Fisher', 'Dana Fisher', 'D. Fisher', 'D. R. Fisher', 'Dana R. Fisher', 'Dana R Fisher']",3152,['Sociology']
+2082578902,DMITRY ZINOVIEV,"['D Zinoviev', 'Dmitry Y Zinoviev', 'Dmitry Zinoviev']",17,['Medicine']
+40800578,Oana Vuculescu,,119,['Psychology']
+1418098184,Adrien Benamira,,81,['Computer Science']
+39869081,Natalie M Gallagher,"['Natalie Gallagher', 'Natalie M. Gallagher', 'Natalie Mcdaniel Gallagher']",187,['Psychology']
+3306556,K. Joseph,"['K. Joseph', 'Kenneth George Joseph', 'Kenny Joseph', 'Kenneth Joseph']",1765,['Sociology']
+145350317,C. Soares,"['Cláudia Mesquita Pinto Soares', 'Cláudia Soares', 'Cláudia Cristina Pinto Soares']",5,['Sociology']
+67109302,S. Katalin,"['Szabo Katalin', 'Szabó Katalin', 'Szabó Martina Katalin']",5,['Physics']
+2068430565,S. Scholtus,"['S. Scholtus', 'Sander Scholtus']",2,['Art']
+1741175,G. Vattay,"['Gabor Vattay', 'G. Vattay', 'Gábor Vattay', ""G'abor Vattay"", 'G Vattay']",2123,['Political Science']
+38870341,Matthijs L. van Leeuwen,"['Matthijs L Van Leeuwen', 'Matthijs Van Leeuwen']",119,['Psychology']
+37172342,Ming-Ming Xiao,"['Ming Ming Xiao', 'Ming-ming Xiao', 'Mingxi Xiao']",31,['Engineering']
+94813413,Steven R. Scheinert,"['Steve Scheinert', 'Steven Scheinert']",103,['Sociology']
+2117278380,M. Lewis,"['M Lewis', 'Mitchell R. Lewis', 'Mitchell Lewis']",592,['Medicine']
+147915826,R. Horta,"['R. Horta', 'Ribeiro Manoel Horta']",0,None
+2813216,Adam Bear,['Adam De Bear'],1075,['Psychology']
+38844482,Yoshihiko Suhara,"['Yoshi Suhara', 'Yoshihiko Suhara']",1027,['Sociology']
+94013412,Mark E. Whiting,"['Mark E Whiting', 'Mark Whiting']",37,"['Psychology', 'Computer Science']"
+2146599621,J. Stankovic,"['J. Stankovic', 'John Stankovic', 'John A. Stankovic']",93,['Medicine']
+9031132,Hiroki Takikawa,['Hiroki Takikawa'],161,['Sociology']
+34444206,G. Schumacher,"['G. Drs. Schumacher', 'Gijs Schumacher']",2141,['Sociology']
+34594216,S. Maity,"['S Maity', 'Suman Maity', 'Sumana Maity', 'Suman Kalyan Maity']",728,['Sociology']
+14289980,S. Zhuchkova,"['Svetlana Zhuchkova', 'S.м. Zhuchkova', 'S. M. Zhuchkova', 'Svetlana Mikhailovna Zhuchkova', 'Svetlana M. Zhuchkova', 'S M Zhuchkova', 'S.m. Zhuchkova']",19,['Sociology']
+117932560,Desirae M. Domenico,"['De Domenico', 'De Martinis Domenico']",235,['Sociology']
+2100728317,Youn-poong Oh,"['Youn Oh', 'Youn-poong Oh']",9,['Psychology']
+2143209220,Vadim Voskresenskii,,1,"['Computer Science', 'Physics']"
+91890528,F. M. Cardoso,"['Felipe M R Cardoso', 'Felipe M. R. Cardoso', 'Felipe Mauro Cardoso', 'Felipe M.r. Cardoso']",265,['Materials Science']
+2593082,Ananth Balashankar,,586,['Medicine']
+2128916708,Aliakbar Akbaritabar,,29,['Sociology']
+2110723862,S. Takahashi,"['S. Takahashi', 'Shingo Takahashi']",21,['Psychology']
+30526605,Su Xiaoran,['Sun Xiaoran'],2,['Materials Science']
+144278140,Jacob N. Shapiro,"['Jacob Shapiro', 'Jacob N Shapiro']",4526,['Sociology']
+11299276,Guanghua Chi,,785,"['Medicine', 'Economics', 'Computer Science', 'Business']"
+122879467,Debarpita Roy,"['Deb Roy', 'Deb Sekhar Roy']",79,['Environmental Science']
+2798221,Kokil Jaidka,,1169,['Sociology']
+94860883,Peng-xiang Hao,"['Peng Hao', 'Peng-xiang Hao']",188,['Physics']
+1685102,F. Giannotti,"['F Giannotti', 'F. Giannotti', 'Fosca Giannotti']",13707,['Sociology']
+10246648,Benjamin M. Hill,"['Benjamin Hill', 'Benjamin Mathew Hill']",3,['Business']
+3029081,D. Bountouridis,"['D. Bountouridis', 'Dimitrios Bountouridis']",256,['Geography']
+48236763,D. Quercia,['Daniele Quercia'],0,None
+2105715435,Z. M. V. van Berlo,"['Z. M. C. Van Berlo', 'Zeph M C Van Berlo', 'Zeph M.c. Van Berlo', 'Zeph M. C. Van Berlo']",70,['Psychology']
+9950697,Dana Warmsley,,1953,['Computer Science']
+1840474882,B. Reeves,"['B Reeves', 'Byron Reeves', 'By Martin Reeves']",3388,['Sociology']
+87946467,L. Fabrizio,"['L. Fabrizio', 'Lillo Fabrizio']",3,None
+2950299,J. Reich,"['J D Reich', 'J. Reich', 'Justin Reich']",3039,['Sociology']
+41072760,Joachim Trebbe,,191,['Sociology']
+1700820,P. Smaldino,"['Paul Smaldino', 'P. E. Smaldino', 'Paul Eric Smaldino', 'Paul E Smaldino', 'Paul E. Smaldino']",2340,['Sociology']
+145909572,A. Chen,"['Anthony Chen', 'Anthony Hing Chen']",72,"['Materials Science', 'Medicine']"
+2098047755,Michael F. Maier,"['Michael Maier', 'Michaela Maier']",205,['Political Science']
+2049062594,A. Wang,"['Andrew Wang', 'Andrew Andrew Wang']",387,['Medicine']
+144030911,R. Guimerà,"['Roger Guimera', 'Roger Guimerà', 'Roger Guimerá', 'Roger. Guimera', 'R Guimerà', 'Roger Guimerà', 'R. Guimerà', 'R. Guimera', 'Roger Guimer̀a', 'R. Guimerá']",14405,"['Sociology', 'Medicine']"
+145102721,Samira Shaikh,['Samir S. Shaikh'],777,['Sociology']
+101167609,Seyed Mohamad Hosseinioun,['Seyed Mohammad Hosseinioun'],0,['Engineering']
+2125441089,Jaihyun Park,,0,None
+8554587,P. Törnberg,"['P. Uitermark Törnberg', 'Petter Törnberg']",743,['Sociology']
+1415110072,Benjamin Devillers,,56,['Computer Science']
+1785816,A. Provetti,"['A. Provetti', 'Alessandro Provetti']",1637,"['Sociology', 'Computer Science']"
+3520952,Bryan A. Daniels,"['Bryan A Daniels', 'Bryan Daniels']",322,['Medicine']
+102446215,A. Santoro,"['A. Santoro', 'Andrea Santoro']",75,"['Physics', 'Mathematics', 'Medicine', 'Computer Science']"
+81975078,Ş. Ionescu,['Stefania Ionescu'],5,['Computer Science']
+1759771,Ceren Budak,,2174,['Sociology']
+3803776,Zoltán Kmetty,"[""Zolt'an Kmetty"", 'Zoltan Kmetty']",104,['Sociology']
+118813282,Naoki Maejima,,0,['Sociology']
+2116645477,Michaela A Smith,"['Michael A Smith', 'Michael A. Smith', 'Michael Smith', 'Michaela Smith']",563,['Psychology']
+2331521,K. Varga,"['Krisztian Zsolt Varga', 'Krisztián Varga', 'Krisztián Zsolt Varga']",57,['Computer Science']
+120578616,Broekel Tom,,0,['Political Science']
+10033961,Sandra Wankmüller,,22,"['Medicine', 'Political Science']"
+2971386,G. Canright,"['Geoffrey S Canright', 'Geoff Canright', 'G. S. Canright', 'Geoffrey Canright', 'Geoffrey St. John Canright', 'G S Canright', 'G. Canright', 'Geoffrey S. Canright']",1739,['Sociology']
+2074128237,M. Tomassini,"['M. Tomassini', 'Marco A. Tomassini', 'Marco Tomassini']",1,['Sociology']
+32475436,M. Dikaiakos,"['M Dikaiakos', 'Marios Dikaiakos']",8,['Medicine']
+88291532,Wang Yunwen,['Wang Yunwen'],6,['Medicine']
+8912718,K. de la Haye,"['K De La Haye', 'K. De La Haye', 'Kayla De La Haye']",1402,['Psychology']
+1747800,D. Helic,['Denis Helic'],1639,['Sociology']
+26582424,A. Perotti,"['A. Perotti', 'Alan Perotti']",241,['Mathematics']
+39493641,J. Houghton,"['J Houghton', 'James Houghton', 'James Philip Houghton', 'James P. Houghton']",48,['Sociology']
+72208575,Jianhu Gao,"['Jian Gao', 'Jian-hu Gao', 'Jianhu Gao', 'Jian‐hu Gao']",109,['Mathematics']
+31554053,G. V. Lopez,"['Glenn Vincent C. Lopez', 'Glenn Vincent Lopez']",7,['Environmental Science']
+150956609,C. Reuter,"['C. Reuter', 'Christoph Reuter']",133,"['Physics', 'Materials Science']"
+47803829,Mi-Jin Lee,"['Mi-jin Lee', 'Mi‐jin Lee']",1517,['Medicine']
+2123319428,Zanele Munyikwa,,674,['Economics']
+120859424,M. Yeomans,"['M. R. Yeomans', 'Michael R. Yeomans', 'Mike Yeomans', 'Michael Yeomans']",637,['Sociology']
+153108134,R. Cassidy,"['Rose Cassidy', 'R. Sugimoto Cassidy']",11,['Sociology']
+2065398613,H. Schulze,"['H Schulze', 'Heidi Schulze']",3,['Chemistry']
+29083238,Tomo-omi Ogawa,"['Tomo Omi Ogawa', 'Tomo-omi Ogawa', 'Tomoyuki Ogawa']",273,['Chemistry']
+20985588,O. Papakyriakopoulos,"['O Papakyriakopoulos', 'Orestis Papakyriakopoulos']",441,['Sociology']
+3499140,Aleksandra Alorić,['Aleksandra Aloric'],44,"['Mathematics', 'Medicine']"
+40570220,A. May,"['Anna M May', 'Anna May', 'Anna M. May', 'Anna Michelle May', 'A.m. May']",291,['Psychology']
+27558311,Douglas Guilbeault,['Douglas Richard Guilbeault'],463,"['Sociology', 'Political Science', 'Computer Science']"
+2113456591,Zhen Lei,"['Zhen-zhen Lei', 'Zhenlin Lei']",27,['Medicine']
+144030911,R. Guimerà,"['Roger Guimera', 'Roger Guimerà', 'Roger Guimerá', 'Roger. Guimera', 'R Guimerà', 'Roger Guimerà', 'R. Guimerà', 'R. Guimera', 'Roger Guimer̀a', 'R. Guimerá']",14405,"['Sociology', 'Medicine']"
+47930228,M. Brambilla,"['Marco Brambilla*', 'M G Brambilla', 'Marco Brambilla', 'Marco Giovanni Brambilla', 'M Brambilla', 'M. Brambilla']",2459,['Political Science']
+2064780005,János Kertész,['Janos Kertesz'],0,['Physics']
+2071381878,M. Sutcliffe,"['M. Sutcliffe', 'Mark M.sc Sutcliffe', 'Mark Sutcliffe']",64,['Sociology']
+1907480,C. Myers,"['C.j. Myers', 'Chris J Myers', 'Chris Myers', 'Chris J. Myers']",4162,['Physics']
+2065277251,H. Hosseinmardi,"['H. Hosseinmardi', 'Homa Hosseinmardi']",11,['Computer Science']
+7147206,Markus Meierer,,79,['Mathematics']
+2109843146,Anxo Sánchez,['Anxo Sanchez'],1,['Psychology']
+102364407,Mohammad Rasoolinejad,,103,"['Physics', 'Materials Science']"
+92254352,J.-B. Yoon,['Jisung Yoon'],25,['Materials Science']
+114579073,Sanaz Mobasseri,,42,['Sociology']
+117535371,D. Levene,"['D Levene', 'Dan Levene', 'D. S. Levene']",624,['Sociology']
+100558778,Janet L. Xu,['Janet Xu'],6,['Materials Science']
+2364686,Giovanni Colavizza,['G. Colavizza'],848,['Sociology']
+71022991,Iraklis Moutidis,,27,['Medicine']
+35168570,G. D. F. Morales,"['G. De Francisci Morales', 'Gianmarco De Francisci Morales']",2661,['Political Science']
+101659012,L. Laugwitz,"['L Laugwitz', 'Laura Linda Laugwitz', 'Laura Laugwitz']",8,['Medicine']
+47992007,E. Sullivan,"['E. Sullivan', 'Emily Rose Sullivan', 'Emily Sullivan']",103,['Psychology']
+2091845154,J. Sternberg,"['Jeffrey Alan Sternberg', 'Jeffrey Sternberg', 'J. A. Sternberg', 'Jeffrey A. Sternberg', 'J. Sternberg']",80,['Medicine']
+2065563176,Dimitrios Milioris,,2,None
+2061329586,Talia Kaufmann,,1,['Geography']
+134832905,van E. Eck,"['Van E Eck', 'Van Eck']",1,None
+1920330996,Tianwei Yang,"['Tian Yang', 'Tian-tian Yang']",7,['Materials Science']
+1783512,Hyejin Youn,"['Hye-jin Youn', 'Hyejin Youn']",1793,['Sociology']
+22446549,Simon Schweighofer,,162,['Psychology']
+143762263,N. Beauchamp,"['N Beauchamp', 'N. Beauchamp', 'Nicholas Daniel Beauchamp', 'Nicholas Beauchamp']",0,None
+2112547575,Zeyu Lyu,,13,None
+1604301953,A. Tsivinskaya,"['A Tsivinskaya', 'Angelika Tsivinskaya']",10,['Sociology']
+2210775,P. Strimling,"['P. Strimling', 'Pontus Strimling']",1578,['Sociology']
+1746034,L. Getoor,"['L Getoor', 'Lise Getoor']",22156,"['Sociology', 'Computer Science']"
+2094618170,T. Wulf,"['T. Wulf', 'Tim Wulf']",2,['Political Science']
+2255094,Daniel Villatoro,"['Daniel Villatoro', 'Daniela Villatoro']",984,['Sociology']
+123007418,A. Verbraeck,"['A. Verbraeck', 'Alexander Verbraeck']",6,['Engineering']
+144584024,J. Ugander,"['J Ugander', 'J. Ugander', 'Johan H. Ugander', 'Johan Ugander']",3697,['Sociology']
+2056723881,G. Sanchez,"['G. Sanchez', 'German Sanchez']",0,['Materials Science']
+152646535,A. Alabdulkareem,"['A S Alabdulkareem', 'A. Alabdulkareem', 'Ahmad Alabdulkareem']",31,['Medicine']
+2186943167,Nicole Nisbett,,1,None
+2465442,Curtis Atkisson,['Curtis J. Atkisson'],266,"['Sociology', 'Economics', 'Biology']"
+121948009,Ryo Hamawaki,['Ryoji Hamawaki'],3,['Materials Science']
+146558728,D. C. Tutterow,['D. Craig Tutterow'],0,None
+5931482,Arthur Luhur,,263,['Medicine']
+1491319253,Omkar Terse,,0,None
+2026324797,A. Battiston,"['A Battiston', 'Alice Battiston']",10,['Psychology']
+37756512,A. Leroux,"['A. Leroux', 'Alexandre Leroux']",145,['Psychology']
+2065376866,M. Barahona,"['M. A. Barahona', 'Mauricio Barahona']",72,None
+153919180,A. Bakker,"['A. Bakker', 'Arthur Bakker']",44,['Physics']
+2118061656,Hong H. Chen,"['Hong Chen', 'Hong H Chen', 'Hong Hong Chen']",275,['Medicine']
+38568367,E. Awad,"['E. Awad', 'Edmond Awad']",1292,['Sociology']
+145521402,Jeremy Burke,"['Jeremy Burke', 'Jeremiah Burke', 'Jeremy Thomas Burke']",303,['Sociology']
+6125979,A. Salomone,"['A Salomone', 'A. Salomone', 'Alberto Salomone']",2039,['Medicine']
+2060423233,J. Gruber,"['J Gruber', 'Johannes Gruber']",38,"['Chemistry', 'Medicine']"
+2109955445,De-Fu Zhang,['Dell Zhang'],17,['Computer Science']
+116783772,Harshit Aneja Harshit Aneja,,1,None
+1965870097,M. Sharma,"['Mansi Sharma', 'Mansi Luthra Sharma']",8,['Medicine']
+3447293,Savvas Zannettou,,2414,"['Sociology', 'Computer Science']"
+150126691,H. Ringo,"['Ho Ringo', 'Ho Moon-ho Ringo']",10,None
+117386123,N. Bhushan,"['N. Bhushan', 'Nitin Bhushan']",49,['Psychology']
+3252940,D. Tingley,"['D. Tingley', 'Dustin Tingley', 'Dustin H. Tingley']",15638,['Sociology']
+10788926,Li Shujun,"['Li Shujun', 'Liu Shujun']",218,['Physics']
+2108287688,Xi Zhang,"['Xi Jun Zhang', 'Xi Zhang']",253,['Medicine']
+144776615,L. E. Celis,"['Laura Elisa Celis', 'L. Elisa Celis']",1607,['Medicine']
+90057191,M. Peyrard,"['M. Peyrard', 'Maxime Peyrard', 'Max Peyrard']",13,['Political Science']
+2123470618,Shirsendu Podder,,17,['Medicine']
+2349638,M. Tizzoni,"['M Tizzoni', 'M. Tizzoni', 'Michele Tizzoni']",3186,['Physics']
+2112325,Kaicheng Yang,['Kaicheng Yang'],52,['Computer Science']
+89922735,Isaac Waller,,72,['Computer Science']
+48280546,Lingqing Jiang,,76,['Psychology']
+150150570,Julian Kohne,,23,['Computer Science']
+2818774,Laura Alessandretti,,1040,"['Psychology', 'Computer Science']"
+2059013031,L. Chaparro,"['Luisa Chaparro', 'Luisa F. Chaparro', 'Luisa Fernanda Chaparro']",4,['Computer Science']
+49977201,B. Hogan,"['B Hogan', 'Bernie Hogan']",2,"['Physics', 'Computer Science']"
+103831391,Gert Buiten,,19,['Political Science']
+121976692,K. Engelke,"['K. Engelke', 'Katherine M. Engelke']",10,['Political Science']
+2067123149,Selen Turkay,,0,None
+116130003,Leah R. Rosenzweig,"['Leah R Rosenzweig', 'Leah Rosenzweig']",65,['Political Science']
+1394959217,M. Yamir,"['Moreno Yamir', 'Moreno Vega Yamir']",0,['Mathematics']
+4433905,G. Pryce,"['G Pryce', 'Gwilym B. J. Pryce', 'Gwilym Benjamin John Pryce', 'G. B. Pryce', 'Gwilym B.j. Pryce', 'G. Pryce', 'Gwilym Pryce']",1256,['Sociology']
+46318336,T. Hills,"['T Hills', 'Thomas E Hills', 'Thomas Hills', 'Thomas E. Hills']",1681,['Medicine']
+1931785,L. Ou,"['L. Ou', 'Lu Ou']",512,['Mathematics']
+75092804,Daniel Muise,"['Dan Muise', 'Daniel P. Muise', 'Danielle Muise']",665,"['Sociology', 'History']"
+3049490,Hari K. Raghavan,"['Hari Raghavan', 'Harish Raghavan']",3,['Mathematics']
+2082231467,Doi Shohei,['Doi Shohei'],0,None
+122522058,Si-June He,['Sijun He'],4,['Mathematics']
+51136331,L. Aiello,"['L Aiello', 'Luca Aiello']",435,['Medicine']
+1754926,Michele Catasta,['M. Catasta'],2943,['Psychology']
+32822615,Samuel C. Woolley,"['Samuel Woolley', 'Sam Woolley', 'Samuel Christopher Woolley']",861,['Sociology']
+6699292,S. Yamaya,"['Shunichi Yamaya', 'S I Yamaya', 'S. Yamaya', 'Shun‐ichi Yamaya', 'Shun-ichi Yamaya', 'S. Yamaya.', 'S Yamaya']",163,['Medicine']
+144582112,M. Pereda,"['M Pereda', 'María Sandoval Pereda', 'María Pereda']",5,['Medicine']
+34511682,Vincenz Frey,,142,['Sociology']
+3251859,A. Breiter,"['A. Breiter', 'Andreas Breiter']",607,['Sociology']
+46173646,Friedolin Merhout,,880,['Sociology']
+151153392,N. Pares,"['N Parés', 'Nicolas Pares']",0,['Sociology']
+2108504883,Xiaofang Wang,"['Xiaofan Wang', 'Xiaofan. Wang']",43,['Engineering']
+144824439,Aaron D. Shaw,"['Aaron David Shaw', 'Aaron Shaw']",2703,['Sociology']
+1722083698,Tong Zeng,['Tong-tong Zeng'],65,['Medicine']
+2139375814,D. Schroeder,"['Daniel Schroeder', 'Daniel Felipe Schroeder']",6,['Medicine']
+2054694496,Daniel J. Goldstein,"['Dan Goldstein', 'Daniel Goldstein']",76,"['Psychology', 'Computer Science']"
+6673771,Simone Centellegher,,210,"['Psychology', 'Computer Science', 'Medicine']"
+102794367,Zion Mengesha,,227,['Psychology']
+2169548289,Jeroen van den Ochtend,,0,None
+1860720135,Daniela Gawehns,,21,['Psychology']
+2402406,M. Mobius,"['Mark Mobius', 'Markus M. Mobius', 'M Mobius', 'M. Mobius', 'Markus Mobius']",3353,['Sociology']
+31839582,J. Gleeson,"['J P Gleeson', 'J. P. Gleeson', 'James P. Gleeson', 'James Gleeson', 'James P Gleeson', 'James Patrick Gleeson']",7379,['Sociology']
+1956650,F. Gargiulo,"['F. Gargiulo', 'Floriana Gargiulo']",737,"['Sociology', 'Physics']"
+2069724,N. Carnegie,"['Nicole B. Carnegie', 'N.b. Carnegie', 'Nicole B Carnegie', 'Nicole Carnegie', 'Nicole Bohme Carnegie']",848,"['Sociology', 'Medicine', 'Computer Science']"
+2067089360,S. Neumann,['Stella Neumann'],12,['Sociology']
+34594216,S. Maity,"['S Maity', 'Suman Maity', 'Sumana Maity', 'Suman Kalyan Maity']",728,['Sociology']
+2189543322,Lluis Danus,,0,None
+13978600,Prasanna Parasurama,,22,['Psychology']
+38181973,Dakota S. Murray,['Dakota Murray'],542,['Sociology']
+2327518,Sven Banisch,,441,"['Sociology', 'Computer Science', 'Physics']"
+3297687,N. Fiedler,"['N Fiedler', 'Norman Fiedler']",5,['Political Science']
+31304979,Y. Kitakami,"['Y. Kitakami', 'Yasuhiro Kitakami']",8,['Mathematics']
+2063800299,Harvey McGuinness,,5,"['Medicine', 'Physics', 'Mathematics', 'Biology']"
+1379485262,Chathurani Senevirathna,,22,['Computer Science']
+1404430858,A. S. Mondol,"['Abu S Mondol', 'Abu S. Mondol', 'Abu Sayeed Mondol']",63,['Medicine']
+2072824108,A. Lima,"['Antonio Lima', 'Antonio Medina Lima']",5,['Medicine']
+82257915,V. Nadai,"['V Nadai', 'V. Nadai', 'V. De Nadai']",55,['Medicine']
+2784704,Lili Aunimo,,91,['Engineering']
+1682878,A. Gionis,"['Aris Gionis', 'Aristides Gionis']",19283,['Sociology']
+49322613,S. Mouysset,"['S Mouysset', 'Sandrine Mouysset']",18,['Medicine']
+1782658,Kristina Lerman,"['K. Lerman', 'Kristina Lerman']",13330,['Sociology']
+146790373,Gauthier Emma,,0,None
+30950148,J. Rudas,"['J. Rudas', 'Jorge E. Rudas', 'Jorge Rudas']",65,['Psychology']
+145795997,G. Fireman,"['G Fireman', 'Gary D Fireman', 'Gary Fireman', 'Gary D. Fireman']",1093,['Sociology']
+4151826,A. Gallo,"['A Gallo', 'Angela Gallo']",2514,['Medicine']
+21493167,D. Adjodah,"['D. Adjodah', 'Dhaval D. K. Adjodah', 'Dhaval Adjodah']",72,['Medicine']
+2114703564,A. Halterman,"['A. Halterman', 'Andrew Halterman', 'Andy Halterman']",176,['History']
+2004690854,Daniel H. Chen,"['Daniel Chen', 'Daniel H Chen']",133,['Medicine']
+40944409,Rebekah Tromble,"['Rebekah K. Tromble', 'Rebekah Tromble']",470,['Sociology']
+52557341,Lin Yiling,"['Li Yiling', 'Lin Yiling', 'Ling Yiling']",7,['Medicine']
+2074202393,C. Monti,"['C. Monti', 'Corrado Monti']",0,['Computer Science']
+108675674,Laura A. Hernández,"['Laura A Hernandez', 'Laura A. Hernandez', 'Laura Hernandez', 'Laura Hernández']",5,['Political Science']
+2165057893,Casper J Albers,"['Casper Albers', 'Casper J. Albers']",2,['Medicine']
+2117077867,Yuner Zhu,,118,['Political Science']
+1834047,Jungseock Joo,['Jungseock Joo'],872,"['Sociology', 'Computer Science']"
+3403045,Nicolas Cointe,,15,['Sociology']
+1400028044,M. Stauffer,"['M Stauffer', 'Maxime Stauffer']",141,"['Physics', 'Medicine']"
+116586615,Tomosato Nishi,,1,"['Psychology', 'Medicine']"
+2152916230,Y. Yang,"['Yang Yang', 'Yang Yang Yang']",19,['Materials Science']
+2772997,Christoph Stadtfeld,,1703,['Sociology']
+79537629,Zachary Kimo Stine,"['Zachary K. Stine', 'Zachary Stine']",15,"['Sociology', 'Computer Science']"
+1629739923,Reham Al Tamime,,19,['Sociology']
+3046220,David Jurgens,"['D Jurgens', 'D. Jurgens', 'David A. Jurgens']",3655,['Sociology']
+3422004,S. Fraiberger,"['Samuel P Fraiberger', 'S. P. Fraiberger', 'Samuel Fraiberger', 'Samuel P. Fraiberger', 'Samuel Paul Fraiberger']",1057,['Physics']
+1659402394,Su Yizhou,['Sun Yizhou'],3,['Medicine']
+2066708095,Théophile Carniel,"[""Th'eophile Carniel"", 'Theophile Carniel']",7,"['Physics', 'Medicine']"
+2146021066,Yangyang Wang,"['Yang Wang', 'Yang-yang Wang']",561,['Medicine']
+35989740,Chenghua Guan,,288,['Sociology']
+101236378,C. Barrie,"['C. Barrie', 'Christopher Barrie', 'Chris Barrie']",119,['Sociology']
+32074066,Jared Katzman,"['Jared L Katzman', 'Jared Lee Katzman']",757,['Computer Science']
+2005765789,Kiran Garimella,"['Kiran Garimella', 'Kiran Kumar Garimella']",162,['Psychology']
+118961615,C. Howland,"['Charles Howland', 'Charles Roscoe Howland']",0,['Psychology']
+2065285822,Henner Gimpel,,60,['Political Science']
+144541492,A. Harutyunyan,"['A. Z. Harutyunyan', 'Anna Harutyunyan', 'Ani Harutyunyan']",62,['Political Science']
+2078908,D. Kotzinos,"['D. Kotzinos', 'Dimitris Kotzinos']",721,['Psychology']
+39740006,J. Oliver,"['Jaime A. Oliver', 'Jaime Oliver', 'Jaime Antonio Oliver']",174,['Medicine']
+1829115,Christian Sandvig,['Chris Sandvig'],3015,['Sociology']
+1755618,W. Sethares,"['W A Sethares', 'William A. Sethares', 'William A Sethares', 'William Sethares', 'W.a. Sethares', 'W. Sethares', 'W. A. Sethares']",4745,['Psychology']
+1474505607,F. Carlos,"['Fernandez Carlos', 'Fernandez Torija Carlos']",3,['Chemistry']
+107795856,Sanja Hajdinjak,,20,['Political Science']
+104754354,Karam Amir,['Karami Amir'],3,['Geology']
+2833301,Telmo Menezes,['Telmo Menezes'],1147,"['Psychology', 'Computer Science', 'Mathematics']"
+2852086,Ramaswami Mahalingam,"['Ram Mahalingam', 'Rama Mahalingam']",1550,['Sociology']
+144130084,Flávio L. Pinheiro,"['Flavio L. Pinheiro', 'Flavio Leao Pinheiro', 'Flavio Pinheiro', 'Flávio Pinheiro']",48,['Sociology']
+144388218,Dong-Woo Lim,"['Dongwoo Lim', 'Dong‐woo Lim']",157,['Medicine']
+2575649,Lorien Jasny,,672,['Sociology']
+49201881,R. Corten,"['Rense Corten', 'Rensen Corten']",0,None
+2909134,Mariano G. Beiró,"['Mariano G Beiró', 'Mariano G. Beiro']",364,['Psychology']
+49950751,V. Yang,"['V Chuqiao Yang', 'Vicky Yang', 'Vicky Chuqiao Yang']",130,['Sociology']
+2463533,D. Goldstein,"['D.g. Goldstein', 'Daniel G. Goldstein', 'Daniel Gray Goldstein', 'D G Goldstein', 'Daniel Goldstein', 'D. G. Goldstein', 'Daniel G Goldstein']",13071,"['Sociology', 'Computer Science', 'Economics']"
+122923729,P. Rio,"['Pedro Rio', 'Pedro Weslley Souza Ros Rio']",13,['Medicine']
+1797355,F. Kooti,"['F Kooti', 'Farshad Kooti']",1500,"['Sociology', 'Computer Science']"
+2116892167,J. Walsh,"['J Walsh', 'Jennifer L. Walsh', 'Jennifer Walsh']",320,['Medicine']
+21062600,A. Fitzgerald,"['A. Fitzgerald', 'Andrew Fitzgerald', 'Andrew F. Fitzgerald']",4,['Engineering']
+80364483,Nora Ammann,,1,['Medicine']
+107927803,R. Nateghi,"['R. Nateghi', 'Roshi Nateghi']",3,None
+2703478,V. Sekara,"['V. Sekara', 'Vedran Sekara']",903,['Sociology']
+9716460,Nima Dehmamy,,237,['Physics']
+1925560,Samuel F. Way,"['Sam F Way', 'Samuel F Way']",648,"['Psychology', 'Computer Science']"
+5507954,L. Perfeito,"['L Perfeito', 'Lilia Perfeito', 'L. Perfeito', 'Lília Perfeito', 'Lília Perfeito']",701,['Medicine']
+1765159,L. Waltman,"['L Waltman', 'L. Waltman', 'Ludo Waltman']",23950,['Sociology']
+1717192,M. Nanni,"['M. Nanni', 'Mirco Nanni']",4825,"['Physics', 'Computer Science']"
+2066561934,M. Magnani,"['M Magnani', 'Matteo Magnani']",0,['Medicine']
+1441946106,A. Hughes,"['A. Hughes', 'Adam M. Hughes', 'Adam Michael Hughes', 'Adam Hughes']",25,['Medicine']
+36702013,K. White,"['K.m. White', 'Karen M White', 'Karen White', 'Karen M. White']",330,"['Medicine', 'Biology']"
+2062873873,B. Rimé,"['B. Rimé', 'Bernard Rimé']",206,['Sociology']
+1736632,Jiliang Tang,['Jiliang. Tang'],20193,"['Sociology', 'Computer Science']"
+2155469401,Wei Zhang,"['Wei Wei Zhang', 'Wei. Zhang', 'Wei Zhang']",367,['Sociology']
+2111788580,J. Williams,"['Jake T W Williams', 'Jake Williams', 'Jake Thomas Warton Williams']",25,['Medicine']
+2067674451,Y. Ishikawa,"['Y Ishikawa', 'Yoshiki Ishikawa']",397,"['Psychology', 'Medicine']"
+32885276,B. Bruns,"['B. Bruns', 'Bryan Bruns', 'Bryan Randolph Bruns']",688,['Political Science']
+1697866594,Zhao Chuqing,,0,None
+32542951,A. Tohidi,"['Amirhossein Tohidi', 'Amir Tohidi', 'A H Tohidi', 'A. H. Tohidi', 'A. Tohidi']",90,['Psychology']
+2061538854,Y. Uchida,"['Y. Uchida', 'Yukiko Uchida']",231,"['Medicine', 'Chemistry']"
+2069927687,Ludovico Napoli,,0,['Computer Science']
+2044793,D. Cardon,"['D. Cardon', 'Dominique Cardon']",924,['Sociology']
+40956113,T. Saito,"['Toshiya Saito', 'Toshiya Toyota Saito']",2211,['Materials Science']
+2097232,B. F. Welles,"['B. F. Welles', 'Brooke Foucault Welles']",817,['Sociology']
+122195930,Daniele Guariso,,1,['Political Science']
+2632078,Bogdan State,,674,"['Sociology', 'Computer Science']"
+2068203116,Y. Ogawa,"['Y. Ogawa', 'Yuki Ogawa']",52,['Medicine']
+2155970749,"Tonelli, Sara",,0,None
+112993665,Clemens Harten,,0,['Computer Science']
+21160985,M. Sadeghi,"['Mohammad Amin Sadeghi', 'Mohammad Sadeghi']",1900,"['Medicine', 'Computer Science']"
+2059229753,R. Tóth,"['R. P. Toth', 'Roland Toth', 'Roland Tóth']",96,['Mathematics']
+152701775,L. Carbone,"['L Carbone', 'Luca Carbone']",8,['Physics']
+40918154,Hancheng Cao,"['Hancheng Cao', 'Han Cao']",379,"['History', 'Computer Science']"
+2698329,M. Karsai,"[""M'arton Karsai"", 'M Karsai', 'Marton Karsai', 'Márton Karsai', 'M. Karsai']",3461,['Sociology']
+49752681,S. Wei,"['Shan Wei', 'Shan-shan Wei', 'Shanshan Wei', 'Shan Shan Wei']",32,['Materials Science']
+15756426,A. Morgan,"['A Morgan', 'Allison Morgan', 'Allison Morgan*', 'Allison J. Morgan']",491,['Sociology']
+10726253,Lia Bozarth,,92,['Sociology']
+50241474,M. Fiore,"['M. Fiore', 'Marco. Fiore', 'Marco Fiore,', 'M Fiore', 'Marco Fiore']",5455,['Psychology']
+84583464,Monica Bhole,,69,['Psychology']
+1899733,F. Gino,"['F Gino', 'F. Gino', 'Francesca Gino']",19055,['Sociology']
+2091916467,P. Dodds,"['P Dodds', 'Peter F. Dodds', 'Peter Dodds']",20,"['Psychology', 'Medicine']"
+2081570309,D. Alexandrov,"['D Alexandrov', 'D. A. Alexandrov', 'Daniel Alexandrov', 'Daniel A. Alexandrov']",60,['Physics']
+1996878,Dean Eckles,['Dean Eckles'],3433,['Psychology']
+50378967,L. Böttcher,"['L Böttcher', 'L. Böttcher', 'Lucas Böttcher']",497,"['Political Science', 'Medicine', 'Physics', 'Mathematics']"
+147205231,Kristen R. Flaherty,['Kristen Flaherty'],0,"['Medicine', 'Biology']"
+145177259,A. Wei,"['Ai Wei', 'Ai Wei Wei']",0,['Engineering']
+91575563,Steffen P. Sebastian,['Steffen Sebastian'],529,['Political Science']
+113864257,S. Wood,"['S. H. Wood', 'S. Wood', 'Sydney Wood', 'Sydney Herbert Wood']",169,['Sociology']
+72640615,Ian Van Buskirk,,0,['Computer Science']
+103932770,Max Pellert,,75,"['Psychology', 'Computer Science']"
+144300761,C. Cattuto,"['C Cattuto', 'C. Cattuto', 'Ciro Cattuto']",11709,['Sociology']
+114364012,Pui-yin Jason Cheung,"['Pui Yin Cheung', 'Pui-yin Pauline Cheung', 'Pui-yin Jason. Cheung', 'Pui-yin Natalie Cheung']",35,['Psychology']
+52193231,D. Lyu,"['D Lyu', 'D. Lyu', 'Ding Lyu']",69,['Physics']
+2085134068,hu Sándor Juhász,['Hu Sándor Juhász'],3,None
+50296093,S. Sen,"['S Sen', 'Siddhartha P Sen', 'Siddhartha Sen']",620,['Medicine']
+2943419,Jan Overgoor,,303,['Political Science']
+1720683,B. Baesens,"['B.. Baesens', 'Bart Baesens', 'Bart. Baesens', 'Bart M M Baesens', 'B Baesens']",15982,['Psychology']
+2004428566,Marius Sältzer,['Marius Saeltzer'],17,['Political Science']
+2150232216,Peaks M Krafft,,1,None
+2112208843,B. Li,"['Bryan Li', 'Bryan Z. Li', 'Bryan Zhi Li']",10,['Computer Science']
+1629739923,Reham Al Tamime,,19,['Sociology']
+2108616798,JunBum Lee,['Junbum Lee'],49,['Medicine']
+72339731,M. Fatehkia,"['M. Fatehkia', 'Masoomali Fatehkia']",203,['Sociology']
+2108777102,Yi-Min Yang,['Yimeng Yang'],17,['Materials Science']
+121766989,P. Lozano,"['Pablo Lozano', 'Pablo Bravo Lozano']",15,['Political Science']
+10191555,Z. Sasovova,"['Z. Sasovova', 'Zuzana Sasovova']",690,['Psychology']
+2314259,J. Blumenstock,"['J E Blumenstock', 'Joshua E Blumenstock', 'Joshua Evan Blumenstock', 'Josh Blumenstock', 'Joshua E. Blumenstock', 'Joshua Blumenstock']",4207,"['Sociology', 'Business']"
+2117569916,Manon Revel,,13,['Medicine']
+5507954,L. Perfeito,"['L Perfeito', 'Lilia Perfeito', 'L. Perfeito', 'Lília Perfeito', 'Lília Perfeito']",701,['Medicine']
+1895991,N. Itsuki,"['N Itsuki', 'Noda Itsuki']",1,['Political Science']
+2113753651,Emily I. Chen,"['Emily Chen', 'Emily I Chen']",41,"['Medicine', 'Biology']"
+2111931460,Josephine Williams,"['Joseph P. Williams', 'Joseph Williams']",1,['Computer Science']
+23724710,J. Lasser,"['J. Lasser', 'Jana Lasser']",345,['Psychology']
+153451463,Ben Thies,,26,['Computer Science']
+117895136,L. Hernández,"['Laura Hernández', 'Laura Fernández Hernández']",0,['Psychology']
+144641844,A. Rizzo,"['A. Rizzo', 'Alessandro Rizzo', 'Alessandro Minuto Rizzo']",3339,['Psychology']
+2078464034,Alessandro Cossard,,79,None
+2061425672,K. Weller,"['K. P. Weller', 'Katrin Weller']",20,"['Sociology', 'Computer Science']"
+2072733252,Nathan Dwyer,['Nate Dwyer'],722,['Sociology']
+3195814,K. Thirunarayan,"['K. Thirunarayan', 'Krishnaprasad Thirunarayan']",3673,['Sociology']
+2117803734,H. Cui,"['Hao Cui', 'Hao Hao Cui']",1,['Environmental Science']
+2157118,V. Spaiser,"['V. Spaiser', 'Viktoria Spaiser']",681,['Sociology']
+49919119,J. Allen,"['J. Allen', 'Jennifer Allen', 'Jennifer P. Allen', 'Jennifer P Allen']",35,['Medicine']
+2054518611,Bernd Weiss,['Bernd Weiß'],320,['Sociology']
+2125374460,Emaad A. Manzoor,['Emaad Manzoor'],55,['Computer Science']
+2307347,Onur Varol,['Onur Varol'],6209,['Sociology']
+123636213,J. Linares,"['Julio Linares', 'Julio Girón Linares']",0,None
+70025184,Keyon Vafa,,118,['Political Science']
+90127209,I. Constantino,"['I Constantino', 'Isabel Constantino']",0,None
+2144069586,K. Miyazaki,"['K. Miyazaki', 'Kunihiro Miyazaki']",63,['Physics']
+1430756040,Cynthia Habonimana,,2,"['Computer Science', 'Psychology']"
+115610300,Christian S. Czymara,['Christian Czymara'],312,['Sociology']
+46713318,Kristen M. Altenburger,"['Kristen Altenburger', 'Kristen M Altenburger']",125,['Medicine']
+49667603,Bill Thompson,"['Bill Thompson', 'Bill D Thompson', 'Bill D. Thompson']",602,['Sociology']
+1506853429,A. Baranovsky,"['A. Baranovsky', 'A.m. Baranovsky', 'Alla Baranovsky']",157,['Political Science']
+1591678373,Z. Han,"['Zhuang Han', 'Zhuang Zhuang Han']",45,['Medicine']
+2111883222,W. Chen,"['Wen Chen', 'Wen Wen Chen']",329,['Political Science']
+10750731,Danaja Maldeniya,['Danaja Maldeniya'],39,['Geography']
+144166108,D. Martens,"['David William Martens', 'David W. Martens', 'D. W. Martens', 'Dave Martens', 'David Martens', 'D W. Martens']",29,['Psychology']
+145372039,Jean Bruggeman,['Jeroen Bruggeman'],29,['Political Science']
+145496993,Edward J K Lee,"['Ed Lee', 'Edward J Lee', 'Edward J. Lee', 'Edward Lee']",502,['Psychology']
+122649157,M. Sirenko,"['M. Sirenko', 'Mikhail Sirenko', 'M. M. Sirenko']",3,['Physics']
+1682773,A. Pentland,"['Alexander Sandy Pentland', 'Alex ‘sandy’ Pentland', 'Alex (sandy) Pentland', 'Alex Pentland', 'Alexander Pentland', 'Alex ’sandy’ Pentland', 'A Pentland', 'Alex “sandy” Pentland', 'A. S. Pentland', 'Alex Sandy Pentland', 'A. Pentland', ""Alex 'sandy' Pentland"", ""Alex Sandy' Pentland""]",28454,['Sociology']
+2118098504,J. Miller,"['J.a. Miller', 'Jacob A Miller', 'Jacob Miller', 'Jacob A. Miller']",1321,['Medicine']
+2102608618,Lee， Sanguk,['Lee Sanguk'],4,['Geography']
+2055517501,M. Toyoda,"['M. Toyoda', 'Masashi Toyoda']",6,['Mathematics']
+50698375,Xu Wentao,"['Xu Wentao', 'Xue Wentao']",0,['Materials Science']
+2059052658,Luke Stark,,114,"['Psychology', 'Medicine']"
+144832530,Franziska Pradel,,17,['Political Science']
+2060611317,Yuki M. Asano,"['Yuki Asano', 'Yukihiro Asano']",11,['Political Science']
+2052292782,M. Bakker,"['M. Bakker', 'Michiel Bakker', 'Michiel Valentijn Bakker']",4,None
+2108440764,Y. Zhang,"['Yiming Zhang', 'Yiming Cookeville Zhang']",1,['Materials Science']
+118816099,M. Sahakyan,"['M K Sahakyan', 'Maria Sahakyan', 'Mari Sahakyan']",25,['Political Science']
+22369664,Serina Chang,['Se-min Chang'],65,['Medicine']
+7255575,Goran Murić,['Goran Muric'],245,"['Political Science', 'Computer Science']"
+2069436306,M. Bailey,"['M Bailey', 'Michael Bailey', 'Michael T Bailey']",198,"['Medicine', 'Chemistry', 'Materials Science']"
+67047192,F. Pijpers,"['Frank Peter Pijpers', 'F. Pijpers', 'Frank P Pijpers', 'Frank Pijpers', 'Frank P. Pijpers', 'F. P. Pijpers']",2471,['Physics']
+1928964,K. Sasahara,"['K Sasahara', 'K. Sasahara', 'Kazutoshi Sasahara']",859,['Sociology']
+10054843,Jiwan Jeong,,19,['Computer Science']
+2121983331,Fanni Máté,,1,None
+116074438,Tobias Konitzer,['Tobias B. Konitzer'],206,['Sociology']
+8074481,Kirk Bansak,"['Kirk Bansak', 'Kirk C. Bansak']",1110,['Sociology']
+2134996,C. Hemelrijk,"['Charlotte Hemelrijk', 'C K Hemelrijk', 'C-k. Hemelrijk', 'Charlotte Korinna Hemelrijk', 'Charlotte K. Hemelrijk', 'C.k. Hemelrijk', 'C. K. Hemelrijk', 'C. Hemelrijk', 'Charlotte K Hemelrijk']",5574,['Sociology']
+137416343,Ece C. Mutlu,"['Ece Mutlu', 'Ece Cciugdem Mutlu']",103,['Medicine']
+2052429313,K. Aberer,"['K. Aberer', 'Karl Aberer']",9,['Engineering']
+1707735656,Rachel de Jong,,55,"['Psychology', 'Medicine']"
+6965378,Lan-lan Luo,"['Lan Lan Luo', 'Lan Luo', 'Lanlan Luo']",55,['Physics']
+2202243930,Lan-Lan Jiang,"['Lan-lan Jiang', 'Lanlan Jiang']",74,['Medicine']
+2066045434,Johnnatan Messias,,9,['Engineering']
+3185333,D. Lazer,"['David Lazer', 'David Mj Lazer', 'D. Lazer', 'David M. J. Lazer', 'David M J Lazer']",21311,['Sociology']
+4600197,Jens Hainmueller,['Jens Hainmueller'],16234,['Sociology']
+98719041,D. Mcleod,"['D Mcleod', 'Doug Mcleod', 'Douglas J Mcleod', 'Douglas Mcleod']",30,['Political Science']
+2149189218,Hui Xu,['Huimin Xu'],6,['Medicine']
+143767854,Dor Abrahamson,['Dor Abrahamson'],2572,['Sociology']
+2116944,E. Fava,"['E Del Fava', 'E. Fava', 'Emanuele Fava', 'Emanuele Del Fava']",263,['Medicine']
+2048031965,Yilmazcan Ozyurt,,4,['Computer Science']
+10803100,Hamsa Bastani,['Hamsa S. Bastani'],1006,['Medicine']
+1689081,S. Madnick,"['S. E. Madnick', 'S.e. Madnick', 'Stuart E. Madnick', 'S E Madnick', 'Stuart Madnick', 'S. Madnick', 'Stuart E Madnick']",8300,['Psychology']
+145479841,E. Horvitz,"['E. Horvitz', 'E. J. Horvitz', 'Eric Horvitz', 'Eric J. Horvitz', 'E J Horvitz', 'Eric Joel Horvitz', 'E Horvitz']",36870,['Sociology']
+46447095,Xiao-yu Zhang,"['Xiao-yu Zhang', 'Xiaoyao Zhang']",54,['Environmental Science']
+2106278774,M. Mujib,"['M A Mujib', 'Munif Mujib']",3,"['Physics', 'Psychology']"
+2005828186,A. Ghasemian,"['A Ghasemian', 'Amir. Ghasemian', 'Amiramir Ghasemian', 'Amir Ghasemian']",51,"['Mathematics', 'Computer Science']"
+119070468,Ellie F Yang,['Ellie Fan Yang'],8,['Psychology']
+113149591,V. Hase,"['V. Hase', 'Valerie Hase']",123,['Sociology']
+2072427,René Algesheimer,"['Rene Algesheimer', 'René Algesheimer']",3974,['Sociology']
+49525622,R. Engelhardt,"['R. Engelhardt', 'Robin Engelhardt']",337,['Sociology']
+2116388682,George Chen,"['George Gq Chen', 'George. Chen']",4381,['Physics']
+80536505,Orsolya Vásárhelyi,['Orsolya Vasarhelyi'],55,"['Psychology', 'Computer Science']"
+2703060,Mohsen Sayyadiharikandeh,,118,['Computer Science']
+6326727,Yifan Qian,['Yifan Qian'],188,['Medicine']
+1804104,R. Zemel,"['Richard Zemel', 'R. S. Zemel', 'Richard S. Zemel', 'R S Zemel', 'Richard S Zemel']",44026,['Psychology']
+2561756,S. Dsouza,"['S. Dsouza', 'Sohan Dsouza']",1307,['Sociology']
+1696982,Nico Clever,['Nico Christoph Clever'],136,['Computer Science']
+37626650,Fengfu Fu,"['Feng Fu', 'Feng Fu Fu', 'Feng-fu Fu', 'Fengfu Fu']",341,"['Medicine', 'Chemistry']"
+7378051,Yi-bei Chen,['Yibei Chen'],210,['Medicine']
+1415151823,Davide Vega D'Aurelio,"[""Davide Vega D'aurelio""]",23,['Engineering']
+98234305,Haruhiko Maenami,,6,['Psychology']
+2853607,D. Valeeva,"['D. A. Valeeva', 'D. Valeeva', 'Diliara Valeeva']",107,['Sociology']
+144610360,J. Bryden,"['J Bryden', 'J. Bryden', 'J. M. Bryden', 'Jack Bryden', 'John M Bryden', 'John Marshall Bryden', 'John Bryden', 'John M. Bryden']",1521,['Sociology']
+3157930,B. Tama,"['Bayu Adhi Tama', 'Bayu Tama']",1188,['Medicine']
+3720322,M. Crockett,"['Molly J. Crockett', 'M J Crockett', 'Molly Crockett', 'Molly J Crockett', 'Molly. J. Crockett', 'M. J. Crockett']",9051,['Sociology']
+2038459993,Hengcheng Xu,"['Heng Cheng Xu', 'Heng Xu']",9,['Engineering']
+52179873,Hannah Muelder,,28,None
+2086531527,Jonas L. Juul,,52,['Medicine']
+123873301,C. Roth,"['C Roth', 'Camille Roth']",63,['Sociology']
+119305893,A. Babaheydari,"['Ashkan Babaheydari', 'A Kazemi Babaheydari']",0,['Political Science']
+89552478,Duilio Balsamo,,49,['Computer Science']
+31201927,Robert Laubacher,['Rob Laubacher'],2341,['Sociology']
+49590019,A. Shvarts,"['A. Shvarts', 'A. Y. Shvarts', 'Anna Yu. Shvarts', 'Anna Shvarts']",139,['Sociology']
+2095724447,V. Rollet,"['V. Rollet', 'Vincent Rollet']",29,['Political Science']
+47954408,A. Schecter,"['A Schecter', 'A. E. Schecter', 'Aaron Schecter', 'A E Schecter', 'A. Schecter']",160,['Medicine']
+1821731,Mark P. Graus,['Mark Graus'],445,['Psychology']
+89196823,Sung-Kon Park,['Sungkyu Park'],5,['Mathematics']
+5115125,Liu Chengcheng,"['Liu Chengcheng', 'Li Chengcheng']",74,['Sociology']
+3130592,P. Sacco,"['P L Sacco', 'P. L. Sacco', 'Pier L. Sacco', 'Pier Luigi Sacco', 'Pierluigi Sacco', 'Pier Sacco']",2795,['Sociology']
+2998138,Gordon Pennycook,"['Gordon Pennycook', 'Gordon Robert Pennycook']",15191,"['Sociology', 'Medicine']"
+49367064,Johannes Bjelland,"['John Bjelland', 'John L Bjelland']",533,['Sociology']
+152984544,C. Wagner,"['C. Wagner', 'Claudia Cecilia Wagner', 'Claudia Wagner', 'Claudia C. Wagner']",4,['Political Science']
+2201557429,Mona Saeed Al Zubaidi,,0,None
+114125523,Benoît Schmutz,"['Benoit Schmutz', 'Benoı̂t Schmutz']",190,['Political Science']
+120086345,Ji-Hyun Kim,"['Ji-hyun Kim', 'Ji‐hyun Kim', 'Ji‑hyun Kim Kim']",5512,['Medicine']
+2072983494,J. Zeng,"['J. Zeng', 'Jing Zeng', 'Jing-jing Zeng', 'Jingjing Zeng']",7,['Geology']
+2736883,N. Metoui,"['N Metoui', 'Nadia Metoui']",134,['Sociology']
+1379672188,Arun Frey,,627,['Psychology']
+9997588,P. Leifeld,"['P Leifeld', 'Philip Leifeld']",2168,['Sociology']
+121214669,Jennifer Gewinner,,44,['Medicine']
+1670042077,L. L. Gorrec,"['L Le Gorrec', 'Luce Le Gorrec']",6,['Computer Science']
+48917197,D. Schwartz,"['D Schwartz', 'David A. Schwartz', 'David C. Schwartz', 'David Schwartz']",8633,['Psychology']
+145972803,Omar A. Guerrero,"['Omar A Guerrero', 'Omar Guerrero']",252,['Sociology']
+4638847,N. C. Köbis,"['N. C. Köbis', 'Nils C. Köbis', 'Nils C Köbis']",0,None
+1705156,I. Rahwan,"['I. Rahwan', 'Iyad Rahwan']",9905,['Sociology']
+2113916304,C. Shi,"['Chong Shi', 'Chong Xi Shi']",16,['Environmental Science']
+116421788,Hannes Rosenbusch,,121,['Psychology']
+1770511695,Vasiliki Voukelatou,,70,['Medicine']
+107907861,Amin Endah Sulistiawati,,11,['Medicine']
+48107065,J. Samuel,"['J Samuel', 'Johnson Samuel', 'Johnson T Samuel', 'Johnson Thamarathu Samuel']",1379,['Physics']
+146495007,Don Green,"['Donald Green', 'Donald J. Green']",66,['Political Science']
+2094459437,K. Linnell,"['K E Linnell', 'Kelsey Linnell']",3,['Medicine']
+2125792068,Sung-Man Han,['Sungwon Han'],13,['Psychology']
+1978063933,Shahad Althobaiti,,6,"['Medicine', 'Computer Science']"
+1684687,Ingmar Weber,"['I. Weber', 'Ingmar G. Weber']",9534,['Sociology']
+47306115,D. Axelrod,"['D Axelrod', 'David Axelrod', 'David J Axelrod', 'David J. Axelrod']",336,"['Sociology', 'Medicine']"
+2019597,A. Chiolero,"['A. Chiolero', 'Arnaud Chiolero']",20,['Political Science']
+2092889515,Tomáš Diviák,['Tomáš Diviák'],0,None
+3663418,Xiancheng Li,"['Xiancheng Li', 'Xian-cheng Li']",624,['Medicine']
+3371403,J. Kleinberg,"['J M Kleinberg', 'Jon M. Kleinberg', 'J. M. Kleinberg', 'J Kleinberg', 'Jon Kleinberg', 'Jon M Kleinberg', 'J. Kleinberg']",76301,['Sociology']
+2100834,Bruno Pinaud,['Bruno Pinaud'],796,"['Medicine', 'Computer Science']"
+2101595384,J. Victorino,"['Jorge Victorino', 'Jorge Servín Victorino']",1,['Chemistry']
+123156877,Kaur Rishemjit,,5,None
+2654157,K. H. Wapman,"['K. Hunter Wapman', 'Kenneth Hunter Wapman']",20,['Medicine']
+2218585,B. Renoust,"['B. Renoust', 'Benjamin Renoust']",401,['Physics']
+2653499,V. Traag,"['Vincent A. Traag', 'Vincent Traag', 'V. A. Traag', 'V A Traag', 'Vincent Antonio Traag', 'Vincent A Traag']",3323,['Sociology']
+151207888,Sabina Hartnett,,2,None
+2055437173,Jason C. Burton,"['Jason Burton', 'Jason C Burton']",102,['Medicine']
+31774034,C. Dann,"['Christopher Ewart Dann', 'Christopher Dann', 'C Dann', 'Christoph Dann', 'Christopher E. Dann', 'Chris Dann']",136,['Sociology']
+145681423,Alexandre P. Francisco,"['Alexandre Francisco', 'Alexandre P Francisco']",2794,['Psychology']
+3411250,M. Bernstein,"['M. J. Bernstein', 'Michael Jason Bernstein', 'Michael J. Bernstein', 'Michael J Bernstein', 'M Bernstein', 'Michael Bernstein']",4763,['Sociology']
+3122129,Lucas Maystre,,387,"['Mathematics', 'Computer Science']"
+49505508,K. Sharma,"['K. Sharma', 'K. L. Sharma', 'Kiran L Sharma', 'Kiran L. Sharma', 'Kiran Lata Sharma', 'Kiran Sharma']",528,['Medicine']
+2153823,W. V. Atteveldt,"['W. H. Van Atteveldt', 'W. Van Atteveldt', 'Wouter Van Atteveldt']",705,['Psychology']
+2026787100,Meng Jingbo,,0,None
+2115859882,Youyou Wu,"['Youyou Wu', 'You Li Wu']",85,['Psychology']
+2044828164,F. Granella,"['F Granella', 'Francesco Granella']",27,"['Physics', 'Environmental Science']"
+2064751547,F. Keusch,"['F. Keusch', 'Florian Keusch']",2,['Political Science']
+2060131580,N. Oliver,"['N Oliver', 'Nuria Oliver']",12,['Mathematics']
+51889221,F. Cafiero,"['F Cafiero', 'F. Cafiero', 'Florian Cafiero']",88,"['Sociology', 'Computer Science']"
+2006766,J. Langguth,"['J. Langguth', 'Johann Langguth', 'Johannes Langguth']",431,['Medicine']
+1631293956,Anna Tedijanto,,5,None
+6050548,N. Pescetelli,"['N Pescetelli', ""Niccolo' Pescetelli"", 'Niccolò Pescetelli', 'N. Pescetelli', ""Niccol'o Pescetelli"", 'Niccolo Pescetelli']",316,['Sociology']
+3859117,Petra Filkuková,['Petra Filkukova'],223,['Psychology']
+2064602608,Keigo Kusumegi,,0,['Medicine']
+1752092,Min-Wen Chao,"['Min Chao', 'Min Wen Chao']",229,"['Mathematics', 'Computer Science']"
+2090592206,Jacqueline Hannan,,3,None
+2068180895,P. Morales,"['Pedro Morales', 'Pedro Ramaciotti Morales']",38,['Political Science']
+51246276,P. Wong,"['Priscilla Ching Han Wong', 'Priscilla Ching-han Wong', 'Priscilla Wong', 'Priscilla H. Wong', 'Priscilla H Wong']",352,['Medicine']
+40210245,A. Telling,"['A L Telling', 'Anna L Telling', 'Anne Telling', 'Anna L. Telling']",281,['Psychology']
+1994685112,Elisa Oertel,,21,['Medicine']
+1506812383,Tyler Amos,,3,None
+82773757,L. Ramos,"['Lina Ramos', 'Lina Maria Ramos']",31,['Physics']
+3543088,D. Farmer,"['D Farmer', 'Doyne Farmer', 'Doyne James Farmer', 'Doyne J. Farmer']",360,['Physics']
+19171720,Daniel Possler,,118,['Sociology']
+3028190,Ali Faqeeh,,180,"['Physics', 'Computer Science', 'Mathematics', 'Medicine']"
+52229695,Devyani Parameshwar,,130,['Business']
+2111881618,Minje Choi,"['Min-hee Choi', 'Minje Choi']",20,['Computer Science']
+2088198191,Alia Braley,,0,None
+52011028,Shuhei Kurizaki,,178,['Psychology']
+2065844300,Nguyen Ly,['Nguyen Dinh Ly Nguyen Dinh Ly'],0,None
+2049671332,N. Nicolaou,"['N Nicolaou', 'Nicos Nicolaou', 'Nicos Poliviou Nicolaou']",2700,['Sociology']
+2116052969,C. Song,"['C Song', 'Chaoming Song']",125,"['Sociology', 'Medicine']"
+46787843,David Rozado,,158,['Sociology']
+2089291554,Jutta Bopp,,0,None
+1382298095,Cristi Vallejos,"['Cristian Lagos Vallejos', 'Cristian Vallejos', 'Cristiana Vallejos']",12,['Psychology']
+49857524,L. Friedland,"['L. Friedland', 'Lisa Friedland', 'L B Friedland']",1036,['Medicine']
+2023811474,Nicolas Todd,,0,['Philosophy']
+113213883,Hawal Shamon,,224,['Psychology']
+94034875,L. Giles,"['L. Giles', 'Lee-jane Giles', 'L J Giles', 'Lee Giles', 'L Giles', 'L. J. Giles']",28,['History']
+47961744,L. Brandt,"['Lea Cheyney Brandt', 'Lea C. Brandt', 'L. Brandt', 'Lea C Brandt', 'Leandre Brandt', 'Lea Brandt']",75,['Sociology']
+2055289855,F. Silvestri,"['F. Silvestri', 'Francesco Silvestri']",54,['Biology']
+46805795,P. Vicinanza,"['P Vicinanza', 'Paul Jerry Vicinanza', 'Paul Vicinanza']",10,['Sociology']
+2039441,M. Schoch,"['M. Schoch', 'Manfred Schoch']",22,['Philosophy']
+2113882451,M. Diakonova,"['M Diakonova', 'M. I. Diakonova', 'Marina Diakonova']",173,['Geology']
+134193403,J. Morgan,"['Jonathan Morgan', 'Jonathan Brink Morgan']",2,['Philosophy']
+1801245727,Jean-Pierre Chevrot,['Jean Pierre Chevrot'],611,['Sociology']
+1691672627,K. Hoffmann Pham,"['K. Hoffmann Pham', 'Katherine E Hoffmann Pham', 'Katherine Hoffmann Pham']",101,['Medicine']
+2148470563,Dilara Kekulluoglu,,33,None
+1963709,Sairam Gurajada,,542,['Computer Science']
+104404100,Domonkos Sík,['Domonkos Sik'],6,['Sociology']
+119774249,Miroslav Palanský,['Miroslav Palansky'],118,['Political Science']
+2066138093,R. M. Benito,"['R. M. Benito', 'Rosa María Benito', 'Rosa M. Benito']",5,['Philosophy']
+2109648386,A. Sharma,"['Amit Sharma', 'Amit Kumar Sharma']",15,['Physics']
+72304880,M. Testori,"['M Testori', 'Martina Testori']",58,['Psychology']
+46886279,Anikó Hannák,['Aniko Hannak'],1537,['Psychology']
+2144733845,L. Wang,"['Lin Wang', 'Lin Lin Wang']",347,['Materials Science']
+83623918,Ania Korsunska,,13,"['Sociology', 'Computer Science']"
+1753220,Radomír Perzina,['Radomir Perzina'],161,['Mathematics']
+1453202301,Nerghes Adina,,0,None
+144873219,K. Carroll,"['K Carroll', 'Katherine H. Carroll', 'Katherine Carroll']",67,['Medicine']
+143653853,J. Becker,"['J Becker', 'Joshua Becker', 'Joshua Aaron Becker']",945,['Sociology']
+2145288227,Luyao Liu,"['Lu Liu', 'Lu-lu Liu']",2,['Medicine']
+2150231468,Mathew D. Hardy,['Mathew Hardy'],1,['Medicine']
+2560510,Antoine Mazières,['Antoine Mazieres'],98,"['Psychology', 'Computer Science', 'Mathematics']"
+2292434,D. Wang,"['D A Wang', 'D. Wang', 'Dashun Wang']",2,None
+104088877,N. Castaldo,['Nicola Castaldo'],6,['Philosophy']
+144176651,Simone Lackner,,180,"['Medicine', 'Biology']"
+119411471,Christian Pipal,,20,['Political Science']
+71481319,Y. Yifan,"['Y F Yifan', 'Yu Yifan', 'Yuan Yifan']",20,['Medicine']
+51153095,Linzhuo Li,,14,"['Computer Science', 'Physics']"
+5672274,Tai-Quan Peng,"['Tai-quan Winson Peng', 'Tai‐quan Peng', 'Taiquan Peng', 'Tai-quan “winson Peng', 'Tai Quan Peng', 'Tai-quan (winson) Peng']",1114,['Sociology']
+2054206550,J. Mendonça,"['Joana Mendonça', 'Joana Carvalho Mendonça']",3,['Medicine']
+39703779,S. Kumar,"['S. Kumar', 'S. P. Jeevan Kumar', 'Sunil Kumar', 'Sachin Kumar']",3,None
+46455367,F. Murray,"['F Murray', 'Fiona Murray']",20,['Political Science']
+2325832,J. Introne,"['J E Introne', 'J.e. Introne', 'Joshua E. Introne', 'Josh Introne', 'Joshua Introne', 'J. Introne']",546,['Sociology']
+51119208,Tomislav Duricic,,48,['Computer Science']
+2079466206,André Santanchè,['Andre Santanche'],19,['Sociology']
+5448322,Arkadiusz Wiśniowski,"['Arek Wisniowski', 'Arkadiusz Wisniowski', 'Arkadiusz Wísniowski']",621,['Political Science']
+2080693234,C. Allegri,"['C. Allegri', 'Chiara Allegri']",0,['Medicine']
+30925108,J. Dieffenbach,"['Jeff R Dieffenbach', 'Jeff Dieffenbach', 'J. R. Dieffenbach', 'Jeff R. Dieffenbach', 'Jeffrey R. Dieffenbach']",96,['Medicine']
+2113954636,T. Alshaabi,"['T. Alshaabi', 'Thayer Alshaabi']",35,['Medicine']
+47595168,J. Pan,"['Jennifer Y Pan', 'Jennifer Pan', 'Jennifer Y. Pan', 'J Y Pan', 'Jennifer Yi-jiun Pan']",100,None
+144728530,J. Blackburn,"['J. Blackburn', 'Jeremy Blackburn']",4860,"['Sociology', 'Computer Science']"
+37455034,M. Müller,"['Moritz Müller', 'Moritz Christian Müller']",764,['Psychology']
+2059084914,Eiji Aramaki,['Eiji Aramaki'],2,None
+51011564,Saumya Bhadani,,32,"['Medicine', 'Computer Science']"
+2072590027,Haonan Qi,"['Hao Qi', 'Hao-nan Qi']",13,"['Physics', 'Materials Science']"
+148243135,Tobin South,,21,"['Physics', 'Computer Science', 'Mathematics']"
+2064134202,D. Dewhurst,"['D Dewhurst', 'David Charles Dewhurst', 'David Dewhurst']",47,"['Psychology', 'Medicine']"
+1399042299,D. Keenan‐Jones,"['D Keenan-jones', 'D. C. Keenan-jones', 'Duncan Keenan-jones', 'Duncan Keenan‐jones']",145,['Medicine']
+46726748,P. Bajardi,"['P Bajardi', 'P. Bajardi', 'Paolo Bajardi']",2388,['Medicine']
+1721948,S. Skiena,"['S. S. Skiena', 'S. Skiena', 'Steven S. Skiena', 'S.s. Skiena', 'S S Skiena', 'S Skiena', 'Steve Skiena', 'Steven S Skiena', 'Steven Skiena']",19533,['Sociology']
+2113780702,Indira Sen,['Indira Sen'],16,['History']
+2059392121,Binny Mathew,,1,['Sociology']
