@@ -1,2 +1,4 @@
-
+BigData/author_dataset.csv
+BigData/paper_dataset.csv
+BigData/paper_abstract_dataset.csv
 Week_2/Get_authors.ipynb
