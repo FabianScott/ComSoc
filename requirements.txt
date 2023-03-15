@@ -9,3 +9,4 @@ jupyter
 beautifulsoup4~=4.11.1
 netwulf
 notebook
+community
