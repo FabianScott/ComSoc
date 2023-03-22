@@ -2,7 +2,8 @@ import pandas as pd
 paper_abstracts = pd.read_csv("paper_abstract_dataset_with_tokens.csv")
 #%%
 from nltk import *
-bigrams_list = [list(bigrams(row)) for row in paper_abstracts["Tokens"]]
+bigrams_list = [list(bigrams(row)) if type(row) is not float else None for row in paper_abstracts["Tokens"]]
+bigrams_list = [lst for lst in bigrams_list if lst is not None]
 #%%
 import numpy as np
 import scipy
