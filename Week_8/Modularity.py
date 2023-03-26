@@ -5,37 +5,12 @@ import netwulf as nw
 import networkx as nx
 import matplotlib.pyplot as plt
 import networkx.algorithms.community as nx_comm
-# if os.getcwd()[-1] in '0123456798':
-#     path_parent = os.path.dirname(os.getcwd())
-#     os.chdir(path_parent)
+
 #%%
 stylized_network, config, G = nw.load("Graph.json")
 #%%
 partition = nx_comm.louvain_communities(G)
-#%%
-sizes = []
-for i, c in enumerate(partition):
-    # print(f'Community {i} has size: {len(c)}')
-    sizes.append(len(c))
-print(f'The average community size is {round(np.mean(sizes),2)}, with a standard deviation of {round(np.std(sizes),2)}. The largest is of size {np.max(sizes)} and the smallest {np.min(sizes)}')
-#%%
-colours_avail = ['b', 'g', 'r', 'c', 'm', 'y', 'k', 'w']
-sizes = np.array(sizes)
-indices = np.argsort(sizes)[-len(colours_avail):]
-colours = []
 
-for i, c in enumerate(partition):
-    if i in indices:
-        col = colours.pop()
-        colours += [col for _ in c]
-    else:
-        colours += ['tab:gray' for _ in c]
-while len(colours) < len(G):
-    colours.append('w')
-#%%
-nx.draw(G, with_labels=False, node_color=colours)
-plt.savefig('graph')
-plt.show()
 #%%
 N = G.number_of_edges()*2
 number_of_iterations = 1000
