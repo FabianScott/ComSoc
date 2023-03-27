@@ -3,6 +3,7 @@ import random
 import numpy as np
 import netwulf as nw
 import networkx as nx
+from tqdm import tqdm
 import matplotlib.pyplot as plt
 import networkx.algorithms.community as nx_comm
 
@@ -11,9 +12,8 @@ stylized_network, config, G = nw.load("Graph.json")
 #%%
 partition = nx_comm.louvain_communities(G)
 
-#%%
 N = G.number_of_edges()*2
-number_of_iterations = 1000
+number_of_iterations = 100
 coms = [list(part) for part in partition]
 
 def modularity(G, communities):
@@ -28,7 +28,7 @@ def modularity(G, communities):
 
 def double_edge_swap_algo(G_original, N):
     G = G_original.copy()
-    for i in range(N):
+    for i in tqdm(range(N)):
         u, v = random.choice(list(G.edges()))
         x, y = random.choice(list(G.edges()))
 
@@ -46,7 +46,7 @@ def plot_density(modularities, value):
     plt.xlabel('Modularity')
     plt.ylabel('Density')
     plt.title('Distribution of Random Modularities with Actual Modularity')
-    plt.savefig('diff_from_zero')
+    plt.savefig('Modularities')
     plt.show()
 
 
@@ -55,7 +55,7 @@ def is_significantly_dif_from_zero(G, value):
     print("current modularity = ", value)
 
     modularities = []
-    for i in range(number_of_iterations):
+    for i in tqdm(range(number_of_iterations)):
         current_double_edge_swap = double_edge_swap_algo(G, N)
         current_modularity = modularity(current_double_edge_swap, coms)
         modularities.append(current_modularity)
